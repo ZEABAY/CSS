@@ -1,0 +1,33 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-align: center;
+    margin: 25px;
+
+}
+
+nav {
+    margin-top: 100px;
+    text-align: center;
+}
+
+a {
+    margin: 0 25px 0px 25px;
+    text-decoration: none;
+    font-size: 20px;
+    color: blue;
+}
+
+a:hover {
+    color: red;
+    display: inline-block;
+    transform: scale(1.7);
+}
+
+img {
+    margin: auto;
+    display: block;
+}
